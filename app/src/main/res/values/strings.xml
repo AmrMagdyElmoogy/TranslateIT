@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TranslateIt</string>
+    <string name="OnBoardingGreetings">Translate with written,voice, mutual talk or drawing in all languages</string>
+</resources>
